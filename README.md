@@ -6,5 +6,9 @@
 
 	MacBook Air (Late 2010)  
 	Old Fashioned  4' 08"  
-	Swizzle       37' 25"  
+	Swizzle       37' 25"
+	
+	Mac Pro (Late 2013)
+	Old Fashioned 0' 39"
+	Swizzle       4' 02"
 
